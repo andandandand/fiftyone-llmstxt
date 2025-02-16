@@ -1,18 +1,16 @@
-# FiftyOne's llms.txt 
-llms.txt files (actually .mds) for the documentation at https://docs.voxel51.com/
+# FiftyOne's llms.txt Files
 
-- `llms.md` gives an overview of the fiftyone documentation
-- `llms-full.md` gives detailed context
+These llms.txt files (in markdown format) are for the documentation at https://docs.voxel51.com/:
 
-Both documents were generated with https://llmstxt.firecrawl.dev/ using their API key. Stored as markdown files for easy browsing. 
+- `llms.md`: Provides an overview of the FiftyOne documentation
+- `llms-full.md`: Provides detailed context
 
-These files are meant to be used as query context for Github Copilot, Cursor, or other LLM-based coding assitants.
+Both documents were generated using https://llmstxt.firecrawl.dev/ with their API key and are stored as markdown files for easy browsing. These files are designed to serve as query context for GitHub Copilot, Cursor, and other LLM-based coding assistants.
 
-## Learn more about FityOne
-* https://docs.voxel51.com/user_guide/index.html 
+## Learn More About FiftyOne
+- https://docs.voxel51.com/user_guide/index.html
 
-## Learn more about LLMs.txt
-
-* https://llmstxt.org/
-* https://github.com/AnswerDotAI/llms-txt
-* https://towardsdatascience.com/llms-txt-414d5121bcb3/
+## Learn More About llms.txt
+- https://llmstxt.org/
+- https://github.com/AnswerDotAI/llms-txt
+- https://towardsdatascience.com/llms-txt-414d5121bcb3/
